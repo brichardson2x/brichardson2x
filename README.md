@@ -1,4 +1,4 @@
-- Hi, I’m @brichardson2x and I don't like emojis.
-- I’m interested in getting into cloud computing and learning new tech.
-- I’m currently learning basic IT, networking, Linux and Python.
-- You can reach me at my email, or here.
+## Hi There ##
+I'm brichardson, just here to do some projects and have some fun in the process.
+Mainly work with python and powershell.
+I really build projects to play with infrastructure.
